@@ -6,6 +6,12 @@ let post = (req, res) => {
     }).end()
 }
 
+let get = (req, res) => {
+    res.status(200).json({
+        "message": "pls trello work pls"
+    }).end()
+}
+
 module.exports = {
     post
 }

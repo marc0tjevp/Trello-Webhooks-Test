@@ -8,7 +8,6 @@ const port = process.env.PORT || config.port;
 
 // Utils
 require('./utils/startup.util')
-require('./utils/database.util')
 require('./utils/extension.util')
 
 // Routing
