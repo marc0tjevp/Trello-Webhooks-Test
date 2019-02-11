@@ -1,21 +1,21 @@
 {
   "name": "trello-webhooks-test",
   "version": "1.0.0",
-  "description": "Simple Express Server",
+  "description": "Receive Webhooks from Trello",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marc0tjevp/2.2-Handpicked-AddOn.git"
+    "url": "git+https://github.com/marc0tjevp/Trello-Webhooks-Test.git"
   },
   "author": "Marco van Poortvliet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marc0tjevp/Mango/issues"
+    "url": "https://github.com/marc0tjevp/Trello-Webhooks-Test/issues"
   },
-  "homepage": "https://github.com/marc0tjevp/Mango#readme",
+  "homepage": "https://github.com/marc0tjevp/Trello-Webhooks-Test",
   "dependencies": {
     "body-parser": "^1.18.3",
     "boxen": "^2.1.0",
