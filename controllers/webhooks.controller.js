@@ -13,5 +13,6 @@ let get = (req, res) => {
 }
 
 module.exports = {
-    post
+    post,
+    get
 }
