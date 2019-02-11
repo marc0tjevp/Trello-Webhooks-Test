@@ -1,4 +1,4 @@
-let post = (req, res) => {
+let get = (req, res) => {
     console.log(req)
     res.status(200).json({
         "message": "example route"
@@ -6,5 +6,5 @@ let post = (req, res) => {
 }
 
 module.exports = {
-    post
+    get
 }
